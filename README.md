@@ -7,7 +7,7 @@ I'm a Second year Computer Science student interested in Software Designing, Pyt
   
   Programming Language: Python, C and Java
   
-  Web Develpment: HTML,CSS, JavaScript
+  Web Development: HTML,CSS, JavaScript
   
   Database: MySQL, SQLite
   
